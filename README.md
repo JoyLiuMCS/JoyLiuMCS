@@ -74,7 +74,11 @@
 <div align="center">
   <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjlndm9nNm1xYmx0emp3Y3Zzdjl3bmF1MmJmb2Fma3E4c2g4cmZreCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Js1Nygba56sCzERSvL/giphy.gif"  />
 </div>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 ###
 
 <!--
