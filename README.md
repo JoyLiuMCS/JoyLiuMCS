@@ -1,4 +1,4 @@
-<h2 align="left">Hello, World! 🌍 I'm Joy, a passionate software engineer👋</h2>
+<h2 align="left">Hello, World! 🌍 I'm Joy, a passionate software engineer.👋</h2>
 
 ###
 
